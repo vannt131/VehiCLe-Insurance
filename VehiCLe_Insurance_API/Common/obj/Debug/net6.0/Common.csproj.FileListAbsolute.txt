@@ -1,0 +1,14 @@
+D:\VanHocAPTECH\T2111E_Sem3\VehiCLe-Insurance\VehiCLe_Insurance_API\Common\bin\Debug\net6.0\Common.deps.json
+D:\VanHocAPTECH\T2111E_Sem3\VehiCLe-Insurance\VehiCLe_Insurance_API\Common\bin\Debug\net6.0\Common.dll
+D:\VanHocAPTECH\T2111E_Sem3\VehiCLe-Insurance\VehiCLe_Insurance_API\Common\bin\Debug\net6.0\Common.pdb
+D:\VanHocAPTECH\T2111E_Sem3\VehiCLe-Insurance\VehiCLe_Insurance_API\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+D:\VanHocAPTECH\T2111E_Sem3\VehiCLe-Insurance\VehiCLe_Insurance_API\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\VanHocAPTECH\T2111E_Sem3\VehiCLe-Insurance\VehiCLe_Insurance_API\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+D:\VanHocAPTECH\T2111E_Sem3\VehiCLe-Insurance\VehiCLe_Insurance_API\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+D:\VanHocAPTECH\T2111E_Sem3\VehiCLe-Insurance\VehiCLe_Insurance_API\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+D:\VanHocAPTECH\T2111E_Sem3\VehiCLe-Insurance\VehiCLe_Insurance_API\Common\obj\Debug\net6.0\Common.dll
+D:\VanHocAPTECH\T2111E_Sem3\VehiCLe-Insurance\VehiCLe_Insurance_API\Common\obj\Debug\net6.0\refint\Common.dll
+D:\VanHocAPTECH\T2111E_Sem3\VehiCLe-Insurance\VehiCLe_Insurance_API\Common\obj\Debug\net6.0\Common.pdb
+D:\VanHocAPTECH\T2111E_Sem3\VehiCLe-Insurance\VehiCLe_Insurance_API\Common\obj\Debug\net6.0\ref\Common.dll
+D:\VanHocAPTECH\T2111E_Sem3\VehiCLe-Insurance\VehiCLe_Insurance_API\Common\bin\Debug\net6.0\Common.runtimeconfig.json
+D:\VanHocAPTECH\T2111E_Sem3\VehiCLe-Insurance\VehiCLe_Insurance_API\Common\obj\Debug\net6.0\Common.genruntimeconfig.cache
